@@ -6,6 +6,13 @@ nav_order: 2
 
 # Workshop preparation 
 
+Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
+  
+## Get the data
+
+You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/GHGEmissionsGES-2004-Present.xlsx).
+
+## Get the software
 This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
 
 You have three options for downloading Tableau:
@@ -35,9 +42,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 -->
 
 <!--
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Choosing your Voyant Tools Instance](#choose-your-voyant-instance). Follow the steps below. 
-  
-## Get the data
+
 - Download the [platforms-as-text](https://github.com/scds/intro-voyant/raw/main/data/platforms-as-text.zip) zipfile to a working directory on your computer.
 - Unzip it. 
 
