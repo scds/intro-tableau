@@ -1,2 +1,6 @@
-# intro-tableau
-An introduction to data visualization with Tableau for exploration and publication purposes. 
+# Data Visualization with Tableau
+
+Workshop and tutorial materials. [Link to workshop page](http://scds.github.io/intro-tableau)
+
+Workshop materials created by Devon Mordell
+
