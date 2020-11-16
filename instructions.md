@@ -9,10 +9,14 @@ After ensuring that you've followed the [Preparatory steps](preparation), open T
 ## Workshop recording
 
 **Coming soon!**
+
 <!--
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public?autoplay=false&automute=false"></iframe>
-<!--View the original [here](https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public).-->
 -->
+
+<!--View the original [here](https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public). -->
+
+
 
 ## Workshop slides
 
