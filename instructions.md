@@ -10,11 +10,9 @@ After ensuring that you've followed the [Preparatory steps](preparation), open T
 
 **Coming soon!**
 
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public?autoplay=false&automute=false"></iframe>
--->
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
 
-<!--View the original [here](https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public). -->
+View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
 
 
 ## Workshop slides
