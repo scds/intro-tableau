@@ -38,5 +38,5 @@ plugins:
   - jekyll-seo-tag
 
 # Google Analytics Tracking
-ga_tracking: G-WNWB8GYPMD
+ga_tracking: G-R1BLDB7CJC
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
